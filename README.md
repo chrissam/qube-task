@@ -1,4 +1,11 @@
- 
+# qube-task2
+Qube Code Challenge - Task 2
+
+----------
+
+
+**Ansible role for the below code challenge**
+
 **Task 1**: Automate the EC2 instance creation under load balancer.
 
 1. Create a role with s3 access.
@@ -25,3 +32,4 @@ Once you have the basic functionality implemented, try to do the following bonus
 scale in : CPU utilization > 80%
 
 scale out : CPU Utilization < 60%
+
