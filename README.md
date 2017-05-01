@@ -1,5 +1,5 @@
-# qube-task2
-Qube Code Challenge - Task 2
+# qube-task
+Qube Code Challenge - Task 1
 
 ----------
 
